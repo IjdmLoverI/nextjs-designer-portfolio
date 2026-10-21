@@ -1,0 +1,46 @@
+export const metadata = {
+  title: "Paylane: onboarding in four minutes",
+  summary:
+    "Reworked the sign-up and identity check of a business payments app, so new teams reach their first invoice in one sitting.",
+  client: "Paylane",
+  role: "Lead product designer",
+  year: 2025,
+  tags: ["Fintech", "Onboarding", "Mobile + web"],
+  cover: "/projects/paylane-onboarding/cover.svg",
+  accent: "#2f5d50",
+  featured: true,
+  order: 1,
+};
+
+## The problem
+
+Paylane lost almost half of new business accounts between sign-up and the first invoice. The flow asked for company documents before showing anything useful, and every rejected upload sent people back to the start.
+
+<Stats
+  items={[
+    { value: "46%", label: "drop-off before the first invoice" },
+    { value: "11", label: "screens in the old flow" },
+    { value: "3 days", label: "median time to verification" },
+  ]}
+/>
+
+## What I did
+
+- Mapped the flow with support and compliance, and marked which checks the law needs before payouts and which only before the first payout.
+- Moved the identity check after the first draft invoice, so people see the product working before the paperwork.
+- Replaced the long form with a checklist that saves every step and explains each document in one sentence.
+- Tested three prototypes with eight small-business owners; the checklist won on both speed and confidence.
+
+> "I finally knew what was left and why." A tester after the second round.
+
+## Outcome
+
+The new flow shipped to all new accounts in March. The first invoice now comes four minutes after sign-up on the median, and the checklist pattern became part of the design system.
+
+<Stats
+  items={[
+    { value: "4 min", label: "to the first invoice" },
+    { value: "−38%", label: "support tickets about verification" },
+    { value: "5", label: "screens in the new flow" },
+  ]}
+/>

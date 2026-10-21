@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-label="Routeline dispatch dashboard with a route map and alerts">
+  <rect width="1600" height="1000" fill="#e3e6f2"/>
+  <rect x="160" y="120" width="1280" height="760" rx="36" fill="#141a33"/>
+  <rect x="190" y="150" width="1220" height="60" rx="18" fill="#1f2747"/>
+  <circle cx="230" cy="180" r="10" fill="#e06c5a"/>
+  <circle cx="262" cy="180" r="10" fill="#e3b04b"/>
+  <circle cx="294" cy="180" r="10" fill="#5fb38a"/>
+  <rect x="190" y="236" width="300" height="614" rx="22" fill="#1f2747"/>
+  <g>
+    <rect x="214" y="264" width="252" height="86" rx="16" fill="#3a2433"/>
+    <rect x="236" y="288" width="120" height="14" rx="7" fill="#e06c5a"/>
+    <rect x="236" y="316" width="190" height="12" rx="6" fill="#8d93b8"/>
+    <rect x="214" y="366" width="252" height="86" rx="16" fill="#2b2f3a"/>
+    <rect x="236" y="390" width="100" height="14" rx="7" fill="#e3b04b"/>
+    <rect x="236" y="418" width="170" height="12" rx="6" fill="#8d93b8"/>
+    <rect x="214" y="468" width="252" height="86" rx="16" fill="#1a2b33"/>
+    <rect x="236" y="492" width="130" height="14" rx="7" fill="#5fb38a"/>
+    <rect x="236" y="520" width="150" height="12" rx="6" fill="#8d93b8"/>
+  </g>
+  <rect x="516" y="236" width="894" height="614" rx="22" fill="#1b2140"/>
+  <g stroke="#2a3360" stroke-width="2">
+    <path d="M516 390H1410M516 540H1410M516 690H1410M740 236V850M960 236V850M1180 236V850"/>
+  </g>
+  <path d="M590 780 C 700 640, 820 700, 900 560 S 1100 420, 1200 470 S 1330 330, 1360 300" fill="none" stroke="#7c8cff" stroke-width="10" stroke-linecap="round"/>
+  <path d="M600 330 C 720 380, 820 300, 960 380 S 1150 640, 1340 700" fill="none" stroke="#5fb38a" stroke-width="8" stroke-linecap="round" stroke-dasharray="2 22"/>
+  <circle cx="900" cy="560" r="22" fill="#e06c5a"/>
+  <circle cx="900" cy="560" r="44" fill="none" stroke="#e06c5a" stroke-width="4" opacity="0.5"/>
+  <circle cx="1200" cy="470" r="14" fill="#7c8cff"/>
+  <circle cx="590" cy="780" r="14" fill="#7c8cff"/>
+</svg>

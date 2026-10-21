@@ -1,0 +1,39 @@
+export const metadata = {
+  title: "Cragly: booking a climbing session",
+  summary:
+    "Designed a booking app for a network of climbing gyms: live occupancy, class passes and a calmer checkout on the phone.",
+  client: "Cragly",
+  role: "Product designer",
+  year: 2024,
+  tags: ["Booking", "Mobile app", "Design system"],
+  cover: "/projects/cragly-booking/cover.svg",
+  accent: "#b4532a",
+  featured: true,
+  order: 2,
+};
+
+## The brief
+
+Cragly runs six bouldering gyms. Members booked through a generic calendar tool, peak hours were overcrowded, and the front desk spent evenings answering "is it busy now?".
+
+## Research
+
+- Two weeks of desk logs: a third of all questions were about how full the gym was.
+- Interviews with twelve members: regulars wanted a two-tap rebooking, newcomers wanted to know what to bring.
+- A review of six booking apps for sports clubs, focused on how they show capacity.
+
+## Design
+
+The home screen leads with a live occupancy bar for each gym and the next free slots. Booking a session takes two taps for anyone with a pass; newcomers get a short checklist (shoes, chalk, waiver) before they pay.
+
+<Stats
+  items={[
+    { value: "2 taps", label: "to rebook a regular slot" },
+    { value: "6", label: "gyms in one app" },
+    { value: "24", label: "components in the kit" },
+  ]}
+/>
+
+## Result
+
+Peak-hour crowding dropped once people could see it coming, and the desk got its evenings back. The component kit I built for the app is now used for the gyms' web booking too.

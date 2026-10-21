@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-label="Paylane onboarding checklist on a phone">
+  <rect width="1600" height="1000" fill="#e4ede8"/>
+  <circle cx="1310" cy="180" r="260" fill="#cfe0d7"/>
+  <circle cx="230" cy="880" r="200" fill="#d8e6de"/>
+  <rect x="590" y="110" width="420" height="820" rx="56" fill="#1f3f36"/>
+  <rect x="616" y="140" width="368" height="760" rx="36" fill="#f7faf8"/>
+  <rect x="656" y="190" width="200" height="22" rx="11" fill="#2f5d50"/>
+  <rect x="656" y="226" width="140" height="14" rx="7" fill="#9fb8ad"/>
+  <g fill="none" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="676" cy="318" r="20" fill="#2f5d50" stroke="none"/>
+    <path d="M666 318l8 8 14-16" stroke="#f7faf8"/>
+    <circle cx="676" cy="408" r="20" fill="#2f5d50" stroke="none"/>
+    <path d="M666 408l8 8 14-16" stroke="#f7faf8"/>
+    <circle cx="676" cy="498" r="20" stroke="#2f5d50" stroke-width="6"/>
+    <circle cx="676" cy="588" r="20" stroke="#9fb8ad" stroke-width="6"/>
+  </g>
+  <rect x="716" y="306" width="220" height="16" rx="8" fill="#1f3f36"/>
+  <rect x="716" y="396" width="180" height="16" rx="8" fill="#1f3f36"/>
+  <rect x="716" y="486" width="200" height="16" rx="8" fill="#2f5d50"/>
+  <rect x="716" y="576" width="150" height="16" rx="8" fill="#9fb8ad"/>
+  <rect x="656" y="780" width="288" height="72" rx="36" fill="#2f5d50"/>
+  <rect x="720" y="808" width="160" height="16" rx="8" fill="#f7faf8"/>
+  <rect x="1090" y="560" width="300" height="190" rx="28" fill="#f7faf8"/>
+  <rect x="1124" y="600" width="120" height="18" rx="9" fill="#2f5d50"/>
+  <rect x="1124" y="640" width="220" height="14" rx="7" fill="#9fb8ad"/>
+  <rect x="1124" y="672" width="180" height="14" rx="7" fill="#9fb8ad"/>
+</svg>
